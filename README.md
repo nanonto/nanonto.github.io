@@ -1,2 +1,1 @@
-# yuuki910.github.io
-Main Pages to Yuuki Site
+Main Page to The github page
